@@ -23,7 +23,7 @@ define('APP_TITLE', 'DATA CENTER INDONESIA');
 // Is independent from IP white- and blacklisting
 $use_auth = true;
 $auth_users = array(
-    'aqilogic' => '440295fe8dfd0217436d1ee76c017c15', 
+    'aqilogic' => '$2y$10$SvCnr0ceUMuj8JPDdomN.enLYh8an/6ks6f7QrWwkM8aqa8KbvUQC', 
 );
 
 // Readonly users
